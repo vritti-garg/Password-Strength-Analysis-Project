@@ -42,7 +42,7 @@ The tests revealed how different characteristics drastically affect a password's
     ![Test Results for Password](good.png)
 
 * **Test 4: `P@$$w0rd`**
-    ![Test Results for P@$$w0rd](v_good.png)
+    ![Test Results for P@$$w0rd](v_strong.png)
 
 ---
 ## 👤 Author
